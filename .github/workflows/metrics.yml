@@ -1,0 +1,27 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # Allow manual runs
+  workflow_dispatch:
+  # Update when pushing to main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: hcg-leo
+          template: classic
+          base: header, activity, community, repositories, metadata
+          
+          # Isometric calendar (The 3D graph at the bottom)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
