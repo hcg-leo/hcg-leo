@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,100:5E81AC&height=200&section=header&text=hcg-leo&fontSize=60&fontAlignY=35&fontColor=000000&animation=fadeIn&desc=leo%20the%20cat&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,100:5E81AC&height=200&section=header&text=hcg-leo&fontSize=60&fontAlignY=35&fontColor=ECEFF4&animation=fadeIn&desc=leo%20the%20cat&descAlignY=55&descSize=18" />
 </p>
 
 ### github stats
