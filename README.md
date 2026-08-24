@@ -9,16 +9,16 @@
 ### check out what i'm currently working on
 
 - [hcg-leo/nixos-server](https://github.com/hcg-leo/nixos-server) - custom nixos server running on a hp laptop 15s-fq2xxx - just a minecraft and media server (torrenting straight into jellyfin)
-- [hcg-leo/fedora-main](https://github.com/hcg-leo/fedora-main) - 
-- [hcg-leo/nixos-main](https://github.com/hcg-leo/nixos-main) - minimal nixos configuration for my galaxy book 3 360 - future project
+- [hcg-leo/fedora-main](https://github.com/hcg-leo/fedora-main) - in the making :0
+- [hcg-leo/nixos-main](https://github.com/hcg-leo/nixos-main) - minimal nixos configuration for my galaxy book 3 360
 - [hcg-leo/git](https://github.com/hcg-leo/git) - learning git - thats it
 - [hcg-leo/nixfiles](https://github.com/hcg-leo/nixfiles) - these nixfiles were made by tsukasa, using for inspiration 
 
 ### my latest projects
 
-- [hcg-leo/fedora-main](https://github.com/hcg-leo/fedora-main) - 
+- [hcg-leo/fedora-main](https://github.com/hcg-leo/fedora-main) - in the making :0
 - [hcg-leo/nixfiles](https://github.com/hcg-leo/nixfiles) - these nixfiles were made by tsukasa, using for inspiration 
-- [hcg-leo/nixos-main](https://github.com/hcg-leo/nixos-main) - minimal nixos configuration for my galaxy book 3 360 - future project
+- [hcg-leo/nixos-main](https://github.com/hcg-leo/nixos-main) - minimal nixos configuration for my galaxy book 3 360
 - [hcg-leo/nixos-server](https://github.com/hcg-leo/nixos-server) - custom nixos server running on a hp laptop 15s-fq2xxx - just a minecraft and media server (torrenting straight into jellyfin)
 - [hcg-leo/git](https://github.com/hcg-leo/git) - learning git - thats it
 
