@@ -17,7 +17,7 @@ jobs:
         with:
           token: ${{ secrets.PROFILE_README_TOKEN }}
           filename: github-metrics.svg
-          # base: header, activity, community, repositories, metadata  <- these 5 are already the default, listed for clarity
-          base_indepth: yes        # more accurate commit/PR/issue counts (costs extra API calls)
-          plugin_isocalendar: yes  # the 3D isometric contributions calendar
-          plugin_gists: yes        # gists count/files/comments box
+          base_indepth: yes
+          plugin_isocalendar: yes
+          plugin_gists: yes
+          config_padding: 0, 20 + 15%
