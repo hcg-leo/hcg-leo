@@ -20,7 +20,5 @@
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 
 ### how to reach me
-
-### how to reach me
 - email: aran20111118 [at] gmail [dot] com
 - discord: hcg_leo
