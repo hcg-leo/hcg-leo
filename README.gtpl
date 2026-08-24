@@ -6,19 +6,9 @@
 
 [![Metrics](https://github.com/hcg-leo/hcg-leo/raw/main/github-metrics.svg)](https://github.com/hcg-leo/hcg-leo/blob/main/github-metrics.svg)
 
-### check out what i'm currently working on
-{{ range recentContributions 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
-{{- end }}
-
 ### my latest projects
 {{ range recentRepos 5 }}
 - [{{ .Name }}]({{ .URL }}) - {{ .Description }}
-{{- end }}
-
-### my recent pull requests
-{{ range recentPullRequests 5 }}
-- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
 {{- end }}
 
 ### recent stars
@@ -28,6 +18,7 @@
 
 ### how to reach me
 
-<!-- Add real links here, e.g.:
-- Website : <https://example.com>
+<!--
+- email: aran20111118 [at] gmail [dot] com
+- discord: hcg_leo
 -->
