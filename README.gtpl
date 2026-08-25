@@ -12,10 +12,8 @@
 {{- end }}
 
 ### recent stars
-{{ range recentStars 15 }}
-{{- if ne .Repo.Owner.Login "hcg-leo" }}
+{{ range recentStars 5 }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
-{{- end }}
 {{- end }}
 
 ### how to reach me
