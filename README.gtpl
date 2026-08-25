@@ -12,8 +12,9 @@
 {{- end }}
 
 ### recent stars
-<!--STARS:START-->
-<!--STARS:END-->
+{{ range recentStars 5 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
 
 ### how to reach me
 - email: aran20111118 [at] gmail [dot] com
