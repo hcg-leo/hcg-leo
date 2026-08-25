@@ -1,3 +1,28 @@
+name: Update generated README
+on:
+  schedule:
+    - cron: "0 */6 * * *" # every 6 hours - change as you like
+  workflow_dispatch: # lets you trigger it by hand from the Actions tab
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  markscribe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate README
+        uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_README_TOKEN }}
+        with:
+          template: "README.gtpl"
+          writeTo: "README.md"
+
       - name: Update recent stars section
         uses: actions/github-script@v7
         with:
@@ -37,3 +62,11 @@
 
             readme = readme.slice(0, s + start.length) + '\n' + block + '\n' + readme.slice(e);
             fs.writeFileSync('README.md', readme);
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update generated README"
+          branch: main
+          commit_user_name: "readme-scribe 🤖"
+          commit_user_email: "actions@github.com"
