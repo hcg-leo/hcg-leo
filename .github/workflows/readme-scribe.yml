@@ -1,8 +1,9 @@
 name: Update generated README
+
 on:
   schedule:
-    - cron: "0 */6 * * *" # every 6 hours - change as you like
-  workflow_dispatch: # lets you trigger it by hand from the Actions tab
+    - cron: "0 */6 * * *"   # every 6 hours - change as you like
+  workflow_dispatch:        # lets you trigger it by hand from the Actions tab
   push:
     branches: [main]
 
@@ -22,46 +23,6 @@ jobs:
         with:
           template: "README.gtpl"
           writeTo: "README.md"
-
-      - name: Update recent stars section
-        uses: actions/github-script@v7
-        with:
-          github-token: ${{ secrets.PROFILE_README_TOKEN }}
-          script: |
-            const fs = require('fs');
-            const username = 'hcg-leo';
-            const maxStars = 5;
-
-            const { data: starred } = await github.request('GET /users/{username}/starred', {
-              username,
-              per_page: 100,
-              headers: { accept: 'application/vnd.github.star+json' }
-            });
-
-            const picked = starred
-              .filter(entry => entry.repo.owner.login.toLowerCase() !== username.toLowerCase())
-              .slice(0, maxStars);
-
-            const lines = picked.map(entry => {
-              const r = entry.repo;
-              return `- [${r.name}](${r.html_url})${r.description ? ' - ' + r.description : ''}`;
-            });
-
-            const block = lines.join('\n');
-            const start = '<!--STARS:START-->';
-            const end = '<!--STARS:END-->';
-
-            let readme = fs.readFileSync('README.md', 'utf8');
-            const s = readme.indexOf(start);
-            const e = readme.indexOf(end);
-
-            if (s === -1 || e === -1) {
-              core.setFailed('STARS markers not found in README.md');
-              return;
-            }
-
-            readme = readme.slice(0, s + start.length) + '\n' + block + '\n' + readme.slice(e);
-            fs.writeFileSync('README.md', readme);
 
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
