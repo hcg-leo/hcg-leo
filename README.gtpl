@@ -12,11 +12,8 @@
 {{- end }}
 
 ### recent stars
-{{ range recentStars 15 }}
-{{- if not (contains .Repo.URL "github.com/hcg-leo/") }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
-{{- end }}
-{{- end }}
+<!--STARS:START-->
+<!--STARS:END-->
 
 ### how to reach me
 - email: aran20111118 [at] gmail [dot] com
