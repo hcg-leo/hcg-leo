@@ -12,8 +12,10 @@
 {{- end }}
 
 ### recent stars
-{{ range recentStars 5 }}
+{{ range recentStars 15 }}
+{{- if not (contains .Repo.URL "github.com/hcg-leo/") }}
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
+{{- end }}
 {{- end }}
 
 ### how to reach me
