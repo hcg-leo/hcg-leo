@@ -16,11 +16,11 @@
 
 ### recent stars
 
+- [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [carlcastanas/Cybersecurity-Roadmap](https://github.com/carlcastanas/Cybersecurity-Roadmap) - 
 - [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [hcg-leo/hcg-leo](https://github.com/hcg-leo/hcg-leo) - leo the cat
-- [hcg-leo/git](https://github.com/hcg-leo/git) - learning git - thats it
 
 ### how to reach me
 - email: aran20111118 [at] gmail [dot] com
