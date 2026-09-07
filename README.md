@@ -4,7 +4,7 @@
 
 ### my latest projects
 
-- [hcg-leo/school-python](https://github.com/hcg-leo/school-python) - i hate codebash, so im running the code locally first. may aswell push the code to github if im doing that
+- [hcg-leo/school-python](https://github.com/hcg-leo/school-python) - all my python work from yr 10
 - [hcg-leo/windows-main](https://github.com/hcg-leo/windows-main) - my personal setup to debloat windows - for the galaxy book 3 360
 - [hcg-leo/nixfiles](https://github.com/hcg-leo/nixfiles) - these nixfiles were made by tsukasa, using for inspiration 
 - [hcg-leo/nixos-main](https://github.com/hcg-leo/nixos-main) - minimal nixos configuration for my galaxy book 3 360 - not complete
