@@ -1,7 +1,3 @@
-### github stats
-
-[![Metrics](https://github.com/hcg-leo/hcg-leo/raw/main/github-metrics.svg)](https://github.com/hcg-leo/hcg-leo/blob/main/github-metrics.svg)
-
 ### my latest projects
 
 - [hcg-leo/school-python](https://github.com/hcg-leo/school-python) - all my python work from yr 10
@@ -17,10 +13,14 @@
 - [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience.
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 
-### ny recent pull requests
+### my recent pull requests
 
 - [complete rewrite to main branch](https://github.com/GMxMatz/Kellys-Company-test-/pull/1) on [GMxMatz/Kellys-Company-test-](https://github.com/GMxMatz/Kellys-Company-test-)
 
 ### how to reach me
 - email: aran20111118 [at] gmail [dot] com
 - discord: hcg_leo
+
+### github stats
+
+[![Metrics](https://github.com/hcg-leo/hcg-leo/raw/main/github-metrics.svg)](https://github.com/hcg-leo/hcg-leo/blob/main/github-metrics.svg)
