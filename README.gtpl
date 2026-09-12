@@ -12,6 +12,11 @@
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 
+### ny recent pull requests
+{{ range recentPullRequests 5 }}
+- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
+{{- end }}
+
 ### how to reach me
 - email: aran20111118 [at] gmail [dot] com
 - discord: hcg_leo
