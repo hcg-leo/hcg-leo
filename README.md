@@ -1,10 +1,10 @@
 ### my latest projects
 
+- [hcg-leo/windows-main](https://github.com/hcg-leo/windows-main) - custom windows setup for my galaxy book 3 360
 - [hcg-leo/school-python](https://github.com/hcg-leo/school-python) - all my python work from yr 10
-- [hcg-leo/windows-main](https://github.com/hcg-leo/windows-main) - my personal setup to debloat windows
 - [hcg-leo/nixfiles](https://github.com/hcg-leo/nixfiles) - these nixfiles were made by tsukasa, using for inspiration 
 - [hcg-leo/nixos-main](https://github.com/hcg-leo/nixos-main) - minimal nixos configuration for my galaxy book 3 360 - not complete
-- [hcg-leo/nixos-server](https://github.com/hcg-leo/nixos-server) - custom nixos server running on a hp laptop 15s-fq2xxx - just a minecraft and media server
+- [hcg-leo/nixos-server](https://github.com/hcg-leo/nixos-server) - custom nixos server running on a hp laptop 15s-fq2xxx
 
 ### recent stars
 
