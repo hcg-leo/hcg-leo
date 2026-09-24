@@ -2,17 +2,16 @@
 
 - [hcg-leo/windows-main](https://github.com/hcg-leo/windows-main) - custom windows setup for my galaxy book 3 360
 - [hcg-leo/school-python](https://github.com/hcg-leo/school-python) - all my python work from yr 10
-- [hcg-leo/nixfiles](https://github.com/hcg-leo/nixfiles) - these nixfiles were made by tsukasa, using for inspiration 
-- [hcg-leo/nixos-main](https://github.com/hcg-leo/nixos-main) - minimal nixos configuration for my galaxy book 3 360 - not complete
+- [hcg-leo/nixfiles](https://github.com/hcg-leo/nixfiles) - these nix files were made by tsukasa, just studying them
 - [hcg-leo/nixos-server](https://github.com/hcg-leo/nixos-server) - custom nixos server running on a hp laptop 15s-fq2xxx
 
 ### recent stars
 
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
-- [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus) - My Linux Desktop - Fedora/X11 Desktop Environment
 - [linuxdotexe/nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers) - A collection of wallpapers that go well with the rices inspired by the Nord Colorscheme. Made with ImageGoNord by Schrödinger Hat.
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience.
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 
 ### my recent pull requests
 
