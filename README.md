@@ -8,11 +8,11 @@
 
 ### recent stars
 
+- [passteque/gluetun](https://github.com/passteque/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus) - My Linux Desktop - Fedora/X11 Desktop Environment
 - [linuxdotexe/nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers) - A collection of wallpapers that go well with the rices inspired by the Nord Colorscheme. Made with ImageGoNord by Schrödinger Hat.
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience.
-- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech&#39;s Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 
 ### my recent pull requests
 
