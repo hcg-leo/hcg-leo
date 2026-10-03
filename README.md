@@ -1,5 +1,6 @@
 ### my latest projects
 
+- [hcg-leo/fedora-server](https://github.com/hcg-leo/fedora-server) - time to replace nixos!
 - [hcg-leo/windows-main](https://github.com/hcg-leo/windows-main) - custom windows setup for my galaxy book 3 360
 - [hcg-leo/school-python](https://github.com/hcg-leo/school-python) - all my python work from yr 10
 - [hcg-leo/nixfiles](https://github.com/hcg-leo/nixfiles) - these nix files were made by tsukasa, just studying them
