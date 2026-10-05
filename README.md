@@ -1,10 +1,10 @@
 ### my latest projects
 
-- [hcg-leo/fedora-server](https://github.com/hcg-leo/fedora-server) - time to replace nixos!
-- [hcg-leo/windows-main](https://github.com/hcg-leo/windows-main) - custom windows setup for my galaxy book 3 360
+- [hcg-leo/fedora-server](https://github.com/hcg-leo/fedora-server) - current fedora server config for a hp laptop 15s-fq2xxx
+- [hcg-leo/windows-main](https://github.com/hcg-leo/windows-main) - i love having no control over my system!!!
 - [hcg-leo/school-python](https://github.com/hcg-leo/school-python) - all my python work from yr 10
-- [hcg-leo/nixfiles](https://github.com/hcg-leo/nixfiles) - these nix files were made by tsukasa, just studying them
-- [hcg-leo/nixos-server](https://github.com/hcg-leo/nixos-server) - custom nixos server running on a hp laptop 15s-fq2xxx
+- [hcg-leo/nixfiles](https://github.com/hcg-leo/nixfiles) - these nix files were made by tsukasa
+- [hcg-leo/nixos-server](https://github.com/hcg-leo/nixos-server) - nixos server config for a hp laptop 15s-fq2xxx
 
 ### recent stars
 
