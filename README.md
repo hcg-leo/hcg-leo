@@ -1,10 +1,10 @@
 ### my latest projects
 
+- [hcg-leo/ofmiceandmen](https://github.com/hcg-leo/ofmiceandmen) - cloned from wame11
 - [hcg-leo/fedora-server](https://github.com/hcg-leo/fedora-server) - current fedora server config for a hp laptop 15s-fq2xxx
 - [hcg-leo/windows-main](https://github.com/hcg-leo/windows-main) - i love having no control over my system!!!
 - [hcg-leo/school-python](https://github.com/hcg-leo/school-python) - all my python work from yr 10
 - [hcg-leo/nixfiles](https://github.com/hcg-leo/nixfiles) - these nix files were made by tsukasa
-- [hcg-leo/nixos-server](https://github.com/hcg-leo/nixos-server) - nixos server config for a hp laptop 15s-fq2xxx
 
 ### recent stars
 
