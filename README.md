@@ -8,11 +8,11 @@
 
 ### recent stars
 
+- [nordtheme/nord](https://github.com/nordtheme/nord) - An arctic, north-bluish color palette.
+- [kantiankant/swindlefiles](https://github.com/kantiankant/swindlefiles) - swindle dotfiles for Void Linux
+- [jhaisley/Playfair-Mono](https://github.com/jhaisley/Playfair-Mono) - Playfair Mono is a general purpose Open Source typeface family based upon Playfair
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The task manager you actually own.
 - [SilentGlasses/gitea_themes](https://github.com/SilentGlasses/gitea_themes) - A set of standalone Gitea themes based on the official Nord palette.
-- [passteque/gluetun](https://github.com/passteque/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
-- [ChrisTitusTech/dwm-titus](https://github.com/ChrisTitusTech/dwm-titus) - My Linux Desktop - Fedora/X11 Desktop Environment
-- [linuxdotexe/nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers) - A collection of wallpapers that go well with the rices inspired by the Nord Colorscheme. Made with ImageGoNord by Schrödinger Hat.
 
 ### my recent pull requests
 
