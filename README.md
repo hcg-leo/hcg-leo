@@ -1,18 +1,17 @@
 ### my latest projects
 
-- [hcg-leo/fedora-server](https://github.com/hcg-leo/fedora-server) - current fedora server config for a hp laptop 15s-fq2xxx
+- [hcg-leo/fedora-server](https://github.com/hcg-leo/fedora-server) - server config for my hp 15s-fq2xxx
 - [hcg-leo/windows-main](https://github.com/hcg-leo/windows-main) - i love having no control over my system!!!
-- [hcg-leo/school-python](https://github.com/hcg-leo/school-python) - all my python work from yr 10
-- [hcg-leo/nixfiles](https://github.com/hcg-leo/nixfiles) - these nix files were made by tsukasa
-- [hcg-leo/nixos-server](https://github.com/hcg-leo/nixos-server) - nixos server config for a hp laptop 15s-fq2xxx - now using fedora
+- [hcg-leo/school-python](https://github.com/hcg-leo/school-python) - python work from school
+- [hcg-leo/nixos-server](https://github.com/hcg-leo/nixos-server) - its so bad its not even funny
 
 ### recent stars
 
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [nordtheme/nord](https://github.com/nordtheme/nord) - An arctic, north-bluish color palette.
 - [kantiankant/swindlefiles](https://github.com/kantiankant/swindlefiles) - swindle dotfiles for Void Linux
 - [jhaisley/Playfair-Mono](https://github.com/jhaisley/Playfair-Mono) - Playfair Mono is a general purpose Open Source typeface family based upon Playfair
 - [go-vikunja/vikunja](https://github.com/go-vikunja/vikunja) - The task manager you actually own.
-- [SilentGlasses/gitea_themes](https://github.com/SilentGlasses/gitea_themes) - A set of standalone Gitea themes based on the official Nord palette.
 
 ### my recent pull requests
 
