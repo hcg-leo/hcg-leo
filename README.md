@@ -1,7 +1,7 @@
 ### my latest projects
 
-- [hcg-leo/fedora-server](https://github.com/hcg-leo/fedora-server) - server config for my hp 15s-fq2xxx
-- [hcg-leo/windows-main](https://github.com/hcg-leo/windows-main) - i love having no control over my system!!!
+- [hcg-leo/fedora-server](https://github.com/hcg-leo/fedora-server) - stop paying with your data and self host
+- [hcg-leo/windows-main](https://github.com/hcg-leo/windows-main) - absolutely no control over my system
 - [hcg-leo/school-python](https://github.com/hcg-leo/school-python) - python work from school
 - [hcg-leo/nixos-server](https://github.com/hcg-leo/nixos-server) - its so bad its not even funny
 
