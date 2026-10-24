@@ -7,7 +7,7 @@
 
 ### recent stars
 
-- [Xonshiz/comic-dl](https://github.com/Xonshiz/comic-dl) - Comic-dl is a command line tool to download manga and comics from various comic and manga sites. Supported sites : readcomiconline.to, mangafox.me, comic naver and many more.
+- [Girbons/comics-downloader](https://github.com/Girbons/comics-downloader) - tool to download comics and manga in pdf/epub/cbr/cbz from a website
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [SilentGlasses/gitea_themes](https://github.com/SilentGlasses/gitea_themes) - A set of standalone Gitea themes based on the official Nord palette.
 - [linuxdotexe/nordic-wallpapers](https://github.com/linuxdotexe/nordic-wallpapers) - A collection of wallpapers that go well with the rices inspired by the Nord Colorscheme. Made with ImageGoNord by Schrödinger Hat.
