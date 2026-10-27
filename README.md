@@ -1,5 +1,6 @@
 ### my latest projects
 
+- [hcg-leo/fire-toolbox](https://github.com/hcg-leo/fire-toolbox) - amazon fire HD 8 unshitified
 - [hcg-leo/fedora-server](https://github.com/hcg-leo/fedora-server) - stop paying with your data and self host
 - [hcg-leo/windows-main](https://github.com/hcg-leo/windows-main) - absolutely no control over my system
 - [hcg-leo/school-python](https://github.com/hcg-leo/school-python) - python work from school
@@ -7,11 +8,11 @@
 
 ### recent stars
 
+- [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [manga-download/hakuneko](https://github.com/manga-download/hakuneko) - Manga &amp; Anime Downloader for Linux, Windows &amp; MacOS
 - [nyaadevs/nyaa](https://github.com/nyaadevs/nyaa) - Bittorrent software for cats
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
 - [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech&#39;s Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
-- [amosblomqvist/pi-config](https://github.com/amosblomqvist/pi-config) - My personal pi config.
 
 ### my recent pull requests
 
