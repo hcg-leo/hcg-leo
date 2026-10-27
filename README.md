@@ -7,11 +7,11 @@
 
 ### recent stars
 
-- [Kareadita/Kavita](https://github.com/Kareadita/Kavita) - Kavita is a fast, feature rich, cross platform reading server. Built with the goal of being a full solution for all your reading needs. Setup your own server and share your reading collection with your friends and family.
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend &amp; API
-- [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
-- [storytold/lightcraft](https://github.com/storytold/lightcraft) - LightCraft: An open-source non-destructive photo editor written by scratch in pure Rust
-- [Girbons/comics-downloader](https://github.com/Girbons/comics-downloader) - tool to download comics and manga in pdf/epub/cbr/cbz from a website
+- [manga-download/hakuneko](https://github.com/manga-download/hakuneko) - Manga &amp; Anime Downloader for Linux, Windows &amp; MacOS
+- [nyaadevs/nyaa](https://github.com/nyaadevs/nyaa) - Bittorrent software for cats
+- [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
+- [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech&#39;s Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
+- [amosblomqvist/pi-config](https://github.com/amosblomqvist/pi-config) - My personal pi config.
 
 ### my recent pull requests
 
