@@ -8,11 +8,11 @@
 
 ### recent stars
 
-- [mbezruchko/Snowhush](https://github.com/mbezruchko/Snowhush) - Soft snow on your Mac&#39;s desktop. It settles on your windows and parts under your cursor.
-- [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [manga-download/hakuneko](https://github.com/manga-download/hakuneko) - Manga &amp; Anime Downloader for Linux, Windows &amp; MacOS
 - [nyaadevs/nyaa](https://github.com/nyaadevs/nyaa) - Bittorrent software for cats
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
+- [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech&#39;s Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 
 ### my recent pull requests
 
