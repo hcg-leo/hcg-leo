@@ -8,11 +8,11 @@
 
 ### recent stars
 
-- [ChrisTitusTech/titstack](https://github.com/ChrisTitusTech/titstack) - Codex and AI skills
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [manga-download/hakuneko](https://github.com/manga-download/hakuneko) - Manga &amp; Anime Downloader for Linux, Windows &amp; MacOS
 - [nyaadevs/nyaa](https://github.com/nyaadevs/nyaa) - Bittorrent software for cats
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
+- [ChrisTitusTech/linutil](https://github.com/ChrisTitusTech/linutil) - Chris Titus Tech&#39;s Linux Toolbox - Linutil is a distro-agnostic toolbox designed to simplify everyday Linux tasks.
 
 ### my recent pull requests
 
