@@ -14,7 +14,6 @@
 {{- end }}
 
 ### how to reach me
-- email: aran20111118 [at] gmail [dot] com
 - discord: hcg_leo
 
 ### github stats
