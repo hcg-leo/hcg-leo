@@ -1,21 +1,20 @@
-### my latest projects
-{{ range recentRepos 5 }}
-- [{{ .Name }}]({{ .URL }}){{ with .Description }} - {{ . }}{{ end }}
+### hcg-leo
+
+<sub>discord · <code>hcg_leo</code></sub>
+
+<img src="github-metrics.svg" alt="languages and contributions" width="100%">
+
+**projects**
+{{ range recentRepos 4 }}
+- [{{ .Name }}]({{ .URL }}){{ with .Description }} · <sub>{{ . }}</sub>{{ end }}
 {{- end }}
 
-### recent stars
-{{ range recentStars 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}){{ with .Repo.Description }} - {{ . }}{{ end }}
+**starred**
+{{ range recentStars 4 }}
+- [{{ .Repo.Name }}]({{ .Repo.URL }})
 {{- end }}
 
-### my recent pull requests
-{{ range recentPullRequests 5 }}
-- [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
+**pull requests**
+{{ range recentPullRequests 3 }}
+- [{{ .Title }}]({{ .URL }}) · <sub>{{ .Repo.Name }}</sub>
 {{- end }}
-
-### how to reach me
-- discord: hcg_leo
-
-### github stats
-
-![github metrics](github-metrics.svg)
