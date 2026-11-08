@@ -1,4 +1,4 @@
-### my latest projects
+### latest projects
 {{ range recentRepos 5 }}
 - [{{ .Name }}]({{ .URL }}){{ with .Description }} - {{ . }}{{ end }}
 {{- end }}
@@ -8,13 +8,10 @@
 - [{{ .Repo.Name }}]({{ .Repo.URL }}){{ with .Repo.Description }} - {{ . }}{{ end }}
 {{- end }}
 
-### my recent pull requests
+### pull requests
 {{ range recentPullRequests 5 }}
 - [{{ .Title }}]({{ .URL }}) on [{{ .Repo.Name }}]({{ .Repo.URL }})
 {{- end }}
-
-### how to reach me
-- discord: hcg_leo
 
 ### github stats
 
