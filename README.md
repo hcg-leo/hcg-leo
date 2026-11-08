@@ -22,4 +22,4 @@
 
 ### github stats
 
-[![Metrics](https://github.com/hcg-leo/hcg-leo/raw/main/github-metrics.svg)](https://github.com/hcg-leo/hcg-leo/blob/main/github-metrics.svg)
+![github metrics](github-metrics.svg)
