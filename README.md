@@ -1,4 +1,4 @@
-### my latest projects
+### latest projects
 
 - [hcg-leo/fedora-server](https://github.com/hcg-leo/fedora-server) - stop paying with your data and self host
 - [hcg-leo/windows-main](https://github.com/hcg-leo/windows-main) - absolutely no control over my system
@@ -13,12 +13,9 @@
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
 - [amosblomqvist/pi-config](https://github.com/amosblomqvist/pi-config) - My personal pi config.
 
-### my recent pull requests
+### pull requests
 
 - [complete rewrite to main branch](https://github.com/GMxMatz/Kellys-Company-test-/pull/1) on [GMxMatz/Kellys-Company-test-](https://github.com/GMxMatz/Kellys-Company-test-)
-
-### how to reach me
-- discord: hcg_leo
 
 ### github stats
 
