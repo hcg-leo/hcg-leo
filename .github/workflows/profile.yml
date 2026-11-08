@@ -15,7 +15,7 @@ permissions:
 
 concurrency:
   group: profile
-  cancel-in-progress: true
+  cancel-in-progress: false
 
 jobs:
   update:
@@ -24,7 +24,7 @@ jobs:
       - uses: actions/checkout@v7
 
       - name: Generate README
-        uses: muesli/readme-scribe@master
+        uses: muesli/readme-scribe@d2f6ab32d6b9f5b59941fe782d6c7e6499a37fe4 # master
         env:
           GITHUB_TOKEN: ${{ secrets.PROFILE_README_TOKEN }}
         with:
