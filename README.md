@@ -1,25 +1,23 @@
-### my latest projects
+### hcg-leo
 
-- [hcg-leo/fedora-server](https://github.com/hcg-leo/fedora-server) - stop paying with your data and self host
-- [hcg-leo/windows-main](https://github.com/hcg-leo/windows-main) - absolutely no control over my system
-- [hcg-leo/school-python](https://github.com/hcg-leo/school-python) - python work from school
-- [hcg-leo/nixos-server](https://github.com/hcg-leo/nixos-server) - its so bad its not even funny
+<sub>discord · <code>hcg_leo</code></sub>
 
-### recent stars
+<img src="github-metrics.svg" alt="languages and contributions" width="100%">
 
-- [ciromattia/kcc](https://github.com/ciromattia/kcc) - KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-- [nyaadevs/nyaa](https://github.com/nyaadevs/nyaa) - Bittorrent software for cats
-- [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
-- [amosblomqvist/pi-config](https://github.com/amosblomqvist/pi-config) - My personal pi config.
+**projects**
 
-### my recent pull requests
+- [hcg-leo/fedora-server](https://github.com/hcg-leo/fedora-server) · <sub>stop paying with your data and self host</sub>
+- [hcg-leo/windows-main](https://github.com/hcg-leo/windows-main) · <sub>absolutely no control over my system</sub>
+- [hcg-leo/school-python](https://github.com/hcg-leo/school-python) · <sub>python work from school</sub>
+- [hcg-leo/nixos-server](https://github.com/hcg-leo/nixos-server) · <sub>its so bad its not even funny</sub>
 
-- [complete rewrite to main branch](https://github.com/GMxMatz/Kellys-Company-test-/pull/1) on [GMxMatz/Kellys-Company-test-](https://github.com/GMxMatz/Kellys-Company-test-)
+**starred**
 
-### how to reach me
-- discord: hcg_leo
+- [ciromattia/kcc](https://github.com/ciromattia/kcc)
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp)
+- [nyaadevs/nyaa](https://github.com/nyaadevs/nyaa)
+- [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy)
 
-### github stats
+**pull requests**
 
-![github metrics](github-metrics.svg)
+- [complete rewrite to main branch](https://github.com/GMxMatz/Kellys-Company-test-/pull/1) · <sub>GMxMatz/Kellys-Company-test-</sub>
