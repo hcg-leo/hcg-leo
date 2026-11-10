@@ -1,6 +1,6 @@
 ### latest projects
 
-- [hcg-leo/.profile](https://github.com/hcg-leo/.profile) - mirror of forgejo profile README
+- [hcg-leo/.profile](https://github.com/hcg-leo/.profile) - my forgejo profile
 - [hcg-leo/fedora-server](https://github.com/hcg-leo/fedora-server) - stop paying with your data and self host
 - [hcg-leo/windows-main](https://github.com/hcg-leo/windows-main) - absolutely no control over my system
 - [hcg-leo/school-python](https://github.com/hcg-leo/school-python) - python work from school
