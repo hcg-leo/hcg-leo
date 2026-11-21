@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="586" height="292" viewBox="0 0 586 292">
+<style>
+text{font:14px monospace;fill:#D8DEE9}
+.b{font-weight:bold}
+</style>
+<rect width="586" height="292" fill="#2E3440"/>
+<text class="b" x="24" y="36">main</text>
+<rect x="24" y="44" width="252" height="2" fill="#D8DEE9"/>
+<text x="24" y="68">os</text>
+<text x="100" y="68">windows 11</text>
+<text x="24" y="90">host</text>
+<text x="100" y="90">galaxy book 3 360</text>
+<text x="24" y="112">wm</text>
+<text x="100" y="112">autohotkey + altsnap</text>
+<text x="24" y="134">editor</text>
+<text x="100" y="134">zed</text>
+<text x="24" y="156">browser</text>
+<text x="100" y="156">helium</text>
+<text x="24" y="178">notes</text>
+<text x="100" y="178">obsidian</text>
+<text x="24" y="200">theme</text>
+<text x="100" y="200">nord</text>
+<text class="b" x="310" y="36">server</text>
+<rect x="310" y="44" width="252" height="2" fill="#D8DEE9"/>
+<text x="310" y="68">os</text>
+<text x="386" y="68">fedora</text>
+<text x="310" y="90">torrent</text>
+<text x="386" y="90">qbittorrent + gluetun</text>
+<text x="310" y="112">git</text>
+<text x="386" y="112">forgejo</text>
+<text x="310" y="134">media</text>
+<text x="386" y="134">jellyfin</text>
+<text x="310" y="156">sync</text>
+<text x="386" y="156">couchdb</text>
+<text x="310" y="178">proxy</text>
+<text x="386" y="178">caddy</text>
+<text x="310" y="200">theme</text>
+<text x="386" y="200">nord</text>
+<text x="24" y="244">&quot;abandon your fear. look forward. move forward and never stop.&quot;</text>
+<rect x="24" y="262" width="60" height="6" fill="#8FBCBB"/>
+<rect x="84" y="262" width="60" height="6" fill="#88C0D0"/>
+<rect x="144" y="262" width="59" height="6" fill="#81A1C1"/>
+<rect x="203" y="262" width="60" height="6" fill="#5E81AC"/>
+<rect x="263" y="262" width="60" height="6" fill="#BF616A"/>
+<rect x="323" y="262" width="60" height="6" fill="#D08770"/>
+<rect x="383" y="262" width="59" height="6" fill="#EBCB8B"/>
+<rect x="442" y="262" width="60" height="6" fill="#A3BE8C"/>
+<rect x="502" y="262" width="60" height="6" fill="#B48EAD"/>
+</svg>
