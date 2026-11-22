@@ -9,16 +9,14 @@ machines = {
         "editor": "zed",
         "browser": "helium",
         "notes": "obsidian",
-        "theme": "nord",
     },
     "server": {
         "os": "fedora",
+        "host": "hp laptop 15s-fq2xxx",
         "torrent": "qbittorrent + gluetun",
         "git": "forgejo",
         "media": "jellyfin",
-        "sync": "couchdb",
-        "proxy": "caddy",
-        "theme": "nord",
+        "sync": "webdav",
     },
 }
 quote = '"abandon your fear. look forward. move forward and never stop."'
